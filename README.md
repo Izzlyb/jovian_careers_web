@@ -1,6 +1,24 @@
 # jovian_careers_web
 A careers website for Jovian
 
+# Web Development With Python
+
+Code: https://github.com/aakashns/jovian-careers-website
+
+There are several tools to deploy your web application but in this notebook, we are focussing on building and deploying a website using the tools provided by python. 
+
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--Y19O2Ab3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pfftroqy6k915lu968u9.JPG)
+
+
+
+### Objective
+ 
+- Create a “Jovian Careers” website listing job openings at Jovian
+- Use a modern HTML & CSS framework for layout and styling
+- Deploy the website to the cloud and attach a custom domain
+
+
+
 ### Objective 
 
 + Explore web development and deployment with Python
